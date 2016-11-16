@@ -1,6 +1,6 @@
 ### IPtoAsset
 #### Keegan Belongia
 
-Enter the Computer name for a system on your network to produce it's IPv4.
+Enter the IPv4 for a system on your network and receive it's computer name.
 
 Basically just a nicely packaged NSLOOKUP.
